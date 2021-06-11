@@ -17,5 +17,3 @@ Second :
     You need to install wget
     if you are using windows open your command prompt or cmd and write:- pip imstall wget
     if you are using mac open your terminal and write:- pip3 install wget
-    
-  
